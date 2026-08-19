@@ -54,15 +54,6 @@
       "file": "mods/ElectricityGenerator.pak",
       "version": "1.0",
       "sha256": "55b61411b1c489893f694e891b607903ac4387ca74bdda982c0030ee37911478"
-    },
-    {
-      "id": "maintain",
-      "name": "Предметы базы не пропадают",
-      "desc": "Радио, бумбокс, прожектор и газовый фонарь на базе больше не исчезают как лут — живут как генератор.",
-      "installAs": "z_Placeables_Maintain.pak",
-      "file": "mods/z_Placeables_Maintain.pak",
-      "version": "1.0",
-      "sha256": "891b13dd4f1a9c9462b6f920d31ad09771afdc3f8e8f1ceb319a4ee6b970799c"
     }
   ]
 }
