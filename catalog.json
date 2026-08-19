@@ -1,0 +1,59 @@
+{
+  "serverName": "Остров Судьбы",
+  "tagline": "PvE · Лут ×0.5 · Моды",
+  "discord": "https://discord.gg/df8m4UmWmp",
+  "shop": "https://wargm.ru/server/81248/shop",
+  "steamAppId": "513710",
+  "launchArgs": [
+    "-nosplash",
+    "-fileopenlog",
+    "-nobattleye"
+  ],
+  "mods": [
+    {
+      "id": "map",
+      "name": "Улучшенная карта",
+      "desc": "На карте сразу видны метки бункеров и заправок — не нужно искать их наугад.",
+      "installAs": "ImprovedMap.pak",
+      "file": "mods/ImprovedMap.pak",
+      "version": "1.0",
+      "sha256": "31c8e1af0162f1e31bc59aa5342be79debb1fabe7fa053a42fa61dfb9553671d"
+    },
+    {
+      "id": "physics",
+      "name": "Физика машин",
+      "desc": "Транспорт ведёт себя живее: увереннее держит дорогу, понятнее разгоняется и тормозит.",
+      "installAs": "khomych_physics_mod.pak",
+      "file": "mods/khomych_physics_mod.pak",
+      "version": "1.0",
+      "sha256": "e45faf2adf496fc1ba6f16c9e2d572a72a230648c84ad49bbe537c89d453a097"
+    },
+    {
+      "id": "twd",
+      "name": "Крафт одежды Twitch Drops",
+      "desc": "Открывает весь крафт одежды Twitch Drops — комплекты можно собрать самому.",
+      "installAs": "TWD.pak",
+      "file": "mods/TWD.pak",
+      "version": "1.0",
+      "sha256": "dd360d615c058e527127dfcce66d600c3792d646838245901c29702807a92088"
+    },
+    {
+      "id": "chrome",
+      "name": "Хром для авто",
+      "desc": "Краска с хромированным блеском. Цвет остаётся своим, но кузов играет металлом.",
+      "installAs": "z_CarPaint_Chrome.pak",
+      "file": "mods/z_CarPaint_Chrome.pak",
+      "version": "1.0",
+      "sha256": "ea5f3e47d38f2d3045cf63292d46ee1a850ccd9b5104e9d000fac67aaebb17ef"
+    },
+    {
+      "id": "generators",
+      "name": "Генераторы",
+      "desc": "Вокруг генератора виден радиус питания — сразу понятно, что попадает под сеть.",
+      "installAs": "ElectricityGenerator.pak",
+      "file": "mods/ElectricityGenerator.pak",
+      "version": "1.0",
+      "sha256": "55b61411b1c489893f694e891b607903ac4387ca74bdda982c0030ee37911478"
+    }
+  ]
+}
