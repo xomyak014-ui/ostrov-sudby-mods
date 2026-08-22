@@ -50,6 +50,15 @@
       "file": "mods/ElectricityGenerator.pak",
       "version": "1.0",
       "sha256": "55b61411b1c489893f694e891b607903ac4387ca74bdda982c0030ee37911478"
+    },
+    {
+      "id": "ammo",
+      "name": "Дешёвый крафт патронов",
+      "desc": "Обычные патроны крафтятся вдвое дешевле. Лом как в ванили, бронебойные рецепты не тронуты.",
+      "installAs": "z_AmmoCraft_Half.pak",
+      "file": "mods/z_AmmoCraft_Half.pak",
+      "version": "1.0",
+      "sha256": "f1166ed497e8f600b7beb954ee4cf5e8d16bdde20ad4682f9d27a80f49a08ed8"
     }
   ]
 }
